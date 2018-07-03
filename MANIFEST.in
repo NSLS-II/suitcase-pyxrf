@@ -1,0 +1,3 @@
+include versioneer.py
+include suitcase/pyxrf/_version.py
+include suitcase/pyxrf/_version.py
